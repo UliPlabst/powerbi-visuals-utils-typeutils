@@ -1,5 +1,5 @@
 {
-  "name": "powerbi-visuals-utils-typeutils",
+  "name": "@mogulargmbh/powerbi-visuals-utils-typeutils",
   "version": "2.3.0",
   "description": "TypeUtils",
   "main": "lib/index.js",
